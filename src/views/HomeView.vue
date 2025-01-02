@@ -100,7 +100,7 @@ function analyze(): void {
   }, 1000);
 }
 function resetResultImage(): void {
-    targetImage.value = 'thinking-cat.gif';
+  targetImage.value = 'thinking-cat.gif';
 }
 function convertToPositiveNumber(negativeNumber: number): number {
   return negativeNumber * -1;

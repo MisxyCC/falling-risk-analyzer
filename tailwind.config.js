@@ -19,6 +19,9 @@ export const theme = {
     },
   },
   extend: {
+    fontFamily: {
+      'kanit': ['Kanit', 'sans-serif'],
+    },
     colors: {
       blueNova: "#5b6d92",
       raspberryBlush: "#D25F57",
